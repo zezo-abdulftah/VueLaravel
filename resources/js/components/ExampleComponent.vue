@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Hello from Forge Host! Ziad welcomes you</h1>
+        <h1>Hello from Forge Host! Ziad welcomes you Mr Mohamed</h1>
     </div>
 </template>
 
